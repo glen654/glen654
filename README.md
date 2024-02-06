@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm a Full-Stack Developer Glen Alloy Perera</h1>
+<h1 align="center">Hi 👋, I'm Glen Alloy Perera Full-Stack Developer</h1>
+<h3 align="center">Hi There!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glen654&label=Profile%20views&color=0e75b6&style=flat" alt="glen654" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glen654&theme=nord" alt="glen654" /></a> </p>
