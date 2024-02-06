@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glen Alloy Perera Full-Stack Developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glen654&label=Profile%20views&color=0e75b6&style=flat" alt="glen654" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glen654&theme=" alt="glen654" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glen654&theme=onestar" alt="glen654" /></a> </p>
 
 - 🌱 I’m currently learning **HTML,CSS and JavaScript**
 - 💬 Ask me about **Java,MySql,HTML,CSS and JavaScript**
